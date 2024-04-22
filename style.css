@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nav{
+    background-color: aquamarine;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+}
+.left{
+    display: flex;
+    font-size:20px ;
+     padding-left: 30px;  
+}
+.right{
+    display: flex;
+    gap: 40px;
+    padding-right: 30px;
+    font-size: 20px;
+    
+}
